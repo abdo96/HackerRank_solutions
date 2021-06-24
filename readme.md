@@ -394,7 +394,7 @@ SQL solutions are coded using MySQL
 
 <p align="center">
     <a href="https://www.hackerrank.com/abdallah_ramzy_2">
-        <img height=85 src="https://www.redgreencode.com/wp-content/uploads/2020/12/LeetCode2020.png">
+        <img height=100 src="https://www.redgreencode.com/wp-content/uploads/2020/12/LeetCode2020.png">
     </a>
     <br>317 efficient solutions to Leet code problems
 </p>
