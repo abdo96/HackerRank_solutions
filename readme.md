@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://www.hackerrank.com/RodneyShag">
+    <a href="https://www.hackerrank.com/abdallah_ramzy_2">
         <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
     <br>317 efficient solutions to HackerRank problems
@@ -389,3 +389,12 @@ SQL solutions are coded using MySQL
 |     Aggregation     | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17)                       |   15   | [MySQL Solution](https://github.com/RodneyShag/HackerRank_solutions/blob/master/SQL/Aggregation/Weather%20Observation%20Station%2017.sql)                 |
 |     Aggregation     | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18)                       |   25   | [MySQL Solution](https://github.com/RodneyShag/HackerRank_solutions/blob/master/SQL/Aggregation/Weather%20Observation%20Station%2018.sql)                 |
 |     Aggregation     | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19)                       |   30   | [MySQL Solution](https://github.com/RodneyShag/HackerRank_solutions/blob/master/SQL/Aggregation/Weather%20Observation%20Station%2019.sql)                 |
+
+
+
+<p align="center">
+    <a href="https://www.hackerrank.com/abdallah_ramzy_2">
+        <img height=85 src="https://www.redgreencode.com/wp-content/uploads/2020/12/LeetCode2020.png">
+    </a>
+    <br>317 efficient solutions to Leet code problems
+</p>
